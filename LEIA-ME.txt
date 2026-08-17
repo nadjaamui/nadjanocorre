@@ -1,0 +1,26 @@
+NADJA NO CORRE — V2
+
+Arquivos que devem ficar na raiz do repositório:
+- index.html
+- manifest.json
+- service-worker.js
+- icon-192.png
+- icon-512.png
+
+GitHub Pages:
+Settings > Pages
+Source: Deploy from a branch
+Branch: main
+Folder: /(root)
+
+Depois de publicar:
+1. Abra o link no Chrome do Galaxy.
+2. Atualize a página uma vez.
+3. Menu ⋮ > Instalar aplicativo / Adicionar à tela inicial.
+
+Esta versão:
+- ocupa toda a largura da tela;
+- usa viewport-fit=cover;
+- funciona como PWA;
+- salva o progresso com localStorage;
+- tem cache offline com atualização mais amigável para GitHub Pages.
