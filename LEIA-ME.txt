@@ -1,5 +1,0 @@
-Arquivos para o GitHub Pages.
-1. Crie um repositório vazio.
-2. Envie todos os arquivos desta pasta.
-3. Ative o GitHub Pages em Settings > Pages.
-4. Abra o link no Galaxy e instale o aplicativo.
